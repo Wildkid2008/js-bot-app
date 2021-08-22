@@ -1,0 +1,27 @@
+{
+  "name": "js-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Hughes",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "bot": "^0.0.3",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "heroku": "^7.57.0",
+    "image-moderation": "^1.0.6",
+    "update": "^0.7.4",
+    "yt-search": "^2.10.0",
+    "ytdl-core": "^4.9.1"
+  }
+}
